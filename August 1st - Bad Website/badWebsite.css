@@ -1,0 +1,26 @@
+* {
+  background-color: #ff0000;
+}
+
+img {
+  width: 1000em;
+  background-color: #A3B18A;
+}
+
+h1 {
+  background-color: #FFFF00;
+  color: rgb(238, 255, 0);
+}
+
+h6 {
+  text-align: right;
+  padding: 1000px;
+  color: #42e3ff;
+}
+
+button {
+  font-size: 5px;
+  margin: 0; 
+  padding: 0;
+  background-color: rgb(251, 0, 255);
+}

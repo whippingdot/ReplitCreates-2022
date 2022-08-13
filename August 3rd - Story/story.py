@@ -1,0 +1,10 @@
+noun1 = input("Enter an item: ")
+noun2 = input("Enter noun: ")
+noun3 = input("Enter another noun: ")
+place1 = input("Enter a place: ")
+verb1 = input("Enter a verb: ")
+verb2 = input("Enter a verb again: ")
+verb3 = input("Wow another verb: ")
+anything = input("Enter anything(one word): ")
+
+print("A kid was going to " + place1 + " on a " + noun1 + " when he got " + verb1 + "ed by a " + noun2 + "! He started " + verb2 + "ing and " + verb1 + "ed the " + noun2 + " back. The " + noun2 + " retaliated by " + verb3 + "ing the kid. The kid " + verb1 + "ed a sad " + verb1 + "!\n\THE " + anything.upper() + ".")
